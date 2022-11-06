@@ -14,7 +14,7 @@ Docker for Desktopはインストール済みと言う前提で進めます。
 - 次に、[こちらのリポジトリ](https://github.com/tkhk11/Shell-Script-Mag-AutoML2023)から、Use this templateし- て適当な名前のリポジトリを作ります
 - git cloneしてローカルに落とした後、docker-compose up で環境をビルドします
 - ブラウザで、[こちらのURL](http://localhost:8011/lab)にアクセスすると、Jupyter Lab が立ち上がり、以下のような画面が表示できていれば完了です
-![jupyterlab](https://github.com/tkhk11/Shell-Script-Mag-AutoML2023/tree/main/local-autoML-PyCaret/images/jupyterlab.png)
+<img width="1581" alt="jupyterlab" src="https://user-images.githubusercontent.com/6277669/200201136-96365e2f-55ee-4c34-ac76-06d7be608452.png">
 
 
 ## 2. PyCaretによるAutoML
@@ -56,6 +56,7 @@ Docker for Desktopはインストール済みと言う前提で進めます。
         compare_models(sort = 'F1') #default is 'Accuracy'
         ```
         しばらく計算を待っていると、結果が以下の通り表示されます：
-        ![results](https://github.com/tkhk11/Shell-Script-Mag-AutoML2023/tree/main/local-autoML-PyCaret/images/results.png)
+        <img width="976" alt="results" src="https://user-images.githubusercontent.com/6277669/200201078-ac6eb065-6174-4e1b-b249-835f925aa622.png">
+
 
 以上
