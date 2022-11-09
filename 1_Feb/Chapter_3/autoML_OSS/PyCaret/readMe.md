@@ -37,12 +37,11 @@ Docker for Desktopはインストール済みと言う前提で進めます。
     - データの記述統計を見る
     - クラスラベルの不均衡を見る
     - データ整形を少しする
-- PyCaretによる不均衡データ分類問題の自動モデル構築　
+- PyCaretによる不均衡データ分類問題の自動モデル構築  
     PyCaretでは、最も簡単なケースでは、以下の2つのコマンドの実行でモデルの自動構築ができてしまいます。
     実行コードと結果の詳細は、[こちらのJupyter Notebookファイル](https://github.com/tkhk11/Shell-Script-Mag-AutoML2023/blob/main/1_Feb/Chapter_3/autoML_OSS/PyCaret/work/local-autoML-PyCaret.ipynb)をご覧ください。
-    - モデル構築の設定　
+    - モデル構築の設定  
         モデル構築は、以下のような簡単なコードを実行するだけです。
-        モデルの構築
         ```python
         from pycaret.classification import *
         exp1 = setup(
