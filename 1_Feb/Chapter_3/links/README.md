@@ -4,6 +4,7 @@
 
 ### 3 - OSSによる実装
 
+表X：主要なAutoML OSSのリスト
 | No. | OSS名称                       | 実装言語     | GitHub公開日 | リポジトリURL                                | ライセンス                        | 公式サイト                                                                          | 特徴                                                                    |
 | --- | --------------------------- | -------- | --------- | --------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
 | 1.  | auto-sklearn                | Python   | 2016年5月   | https://github.com/automl/auto-sklearn  | 三条項BSDライセンス（scikit-learnと同じ） | https://automl.github.io/auto-sklearn/master/                                  | Pythonの機械学習ライブラリsklearnから自動化                                          |
@@ -15,4 +16,17 @@
 | 7.  | Ludwig                      | Python   | 2019年2月   | https://github.com/ludwig-ai/ludwig     | Apache-2.0 License           | https://ludwig-ai.github.io/ludwig-docs/                                       | ノーコード、深層学習モデル                                                         |
 | 8.  | Neural Network Intelligence | Python   | 2018年9月   | https://github.com/microsoft/nni        | MIT License                  | https://nni.readthedocs.io/en/stable/                                          | Microsoft開発、ハイパーパラメーターチューニングやニューラルアーキテクチャ探索                           |
 | 9.  | Model Search                | Python   | 2021年2月   | https://github.com/google/model_search  | Apache-2.0 License           | 参考：https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html | Google開発、マイクロアーキテクチャブロックによる構造探索、モデルファイル出力                             |
+
+## 3.2 主要クラウドにおけるAutoMLサービスの概要
+
+### DataRobot
+#### DataRobotでのAutoMLの始め方  
+　DataRobotは、ユーザーコミュニティの支援にも積極的であり、以下のようなリソースが無償、有償で活用できます：
+- PathFinder ユースケースライブラリ（https://pathfinder.datarobot.com/jp/）  
+- DataRobot ブログ（https://www.datarobot.com/jp/blog/）
+- DataRobot Community（https://community.datarobot.com/t5/datarobot%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/ct-p/JapaneseID）
+- DataRobot University
+  - e-Learning（無償）：各製品の基本的な機能・操作に関する自習式コース
+  - DRU スタンダードパック（有償）：各製品のより進んだ使い方について、の学習コンテンツを有償で提供
+  - DataRobot Academy（講義形式、有償）：データサイエンティストに必要な知識・技術を網羅的に習得する養成講座
 
