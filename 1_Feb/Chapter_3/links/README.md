@@ -19,10 +19,19 @@
 
 ## 3.2 主要クラウドにおけるAutoMLサービスの概要
 
+### AWS
+#### AWS AutoMLをもっと詳しく知りたい方へ
+　本章では、SageMakerのセットアップまでを簡単に概説いたしました。とは言ってもまだ使えるようにセットアップしただけですので、その先を進めるための参考情報をいくつか記載いたしました。是非ご参考に進めていただければと思います。
+- [Amazon SageMaker Canvas を使ってノーコードで AI による予測をする](https://docs.google.com/document/d/1GOCsgJEwAle_AQyokdNnZGeQ-pB9_4Sn8sfiUHbyohs/edit#heading=h.y3da6pfx7ub2)
+- [Amazon SageMaker Studio で機械学習の最初の一歩を踏み出そう](https://aws.amazon.com/jp/builders-flash/202202/ml-first-step-sagemaker-studio/?awsf.filter-name=*all)
+- [機械学習モデルを自動的に作成する Amazon SageMaker Autopilot を使用](https://aws.amazon.com/jp/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
+- [Autopilot 公式チュートリアル](https://docs.aws.amazon.com/ja_jp/sagemaker/latest/dg/autopilot-automate-model-development.html)
+- [AWS RedShift MLでSQLを使った機械学習をする](https://dev.classmethod.jp/articles/aws-redshift-ml/)
+
 ### DataRobot
-#### DataRobotでのAutoMLの始め方  
+#### DataRobotでのAutoMLの始め方
 　DataRobotは、ユーザーコミュニティの支援にも積極的であり、以下のようなリソースが無償、有償で活用できます：
-- PathFinder ユースケースライブラリ（https://pathfinder.datarobot.com/jp/）  
+- PathFinder ユースケースライブラリ（https://pathfinder.datarobot.com/jp/）
 - DataRobot ブログ（https://www.datarobot.com/jp/blog/）
 - DataRobot Community（https://community.datarobot.com/t5/datarobot%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/ct-p/JapaneseID）
 - DataRobot University
