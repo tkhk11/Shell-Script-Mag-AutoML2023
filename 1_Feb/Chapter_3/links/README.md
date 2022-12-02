@@ -25,8 +25,8 @@
 
 | No. | 記事名|URL|
 |---|---|---|
-|1.|Amazon SageMaker Canvas を使ってノーコードで AI による予測をする|https://docs.google.com/document/d/1GOCsgJEwAle_AQyokdNnZGeQ-pB9_4Sn8sfiUHbyohs/edit#heading=h.y3da6pfx7ub2|
-|2.|Amazon SageMaker Studio で機械学習の最初の一歩を踏み出そう|https://aws.amazon.com/jp/builders-flash/202202/ml-first-step-sagemaker-studio/?awsf.filter-name=*all|
+|1.|Amazon SageMaker Canvas を使ってノーコードで AI による予測をする|https://kikuchitk7.hatenablog.com/entry/2021/12/20/085713|
+|2.|Amazon SageMaker Studio で機械学習の最初の一歩を踏み出そう|https://aws.amazon.com/jp/builders-flash/202202/ml-first-step-sagemaker-studio|
 |3.|機械学習モデルを自動的に作成する Amazon SageMaker Autopilot を使用|https://aws.amazon.com/jp/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/|
 |4.|Autopilot 公式チュートリアル|https://docs.aws.amazon.com/ja_jp/sagemaker/latest/dg/autopilot-automate-model-development.html|
 |5.|AWS RedShift MLでSQLを使った機械学習をする|https://dev.classmethod.jp/articles/aws-redshift-ml/|
