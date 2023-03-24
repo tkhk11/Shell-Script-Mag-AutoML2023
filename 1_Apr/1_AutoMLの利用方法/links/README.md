@@ -1,0 +1,16 @@
+# AutoMLの利用方法 のリンク集
+
+## OSSによる実装
+
+表6：主なAutoML OSSの概要と特長（URL含む）
+| No. | OSS名称                       | 実装言語     | GitHub公開日 | リポジトリ                                | ライセンス                        | 公式サイト                                                                          | 特徴                                                                    |
+| --- | --------------------------- | -------- | --------- | --------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| 1.  | auto-sklearn                | Python   | 2016年5月   | [Link](https://github.com/automl/auto-sklearn)  | 三条項BSDライセンス（scikit-learnと同じ） | [Link](https://automl.github.io/auto-sklearn/master/)                                  | Pythonの機械学習ライブラリsklearnから自動化                                          |
+| 2.  | TPOT                        | Python   | 2015年11月  | [Link](https://github.com/EpistasisLab/tpot)    | LGPL-3.0 License             | [Link](https://github.com/EpistasisLab/tpot)                                           | 遺伝的プログラミングによる最適化、木構造パイプライン                                            |
+| 3.  | AutoGluon                   | Python   | 2020年3月   | [Link](https://github.com/awslabs/autogluon)    | Apache-2.0 License           | [Link](https://auto.gluon.ai/stable/index.html)                                        | AWS開発、MXNetベース                                                        |
+| 4.  | H2O                         | コア部分Java | 2014年3月   | [Link](https://github.com/h2oai/h2o-3)          | Apache-2.0 License           | [Link](https://www.h2o.ai/products/h2o/)                                               | ノーコード、モデルのJAVAアプリ組み込み容易                                               |
+| 5.  | PyCaret                     | Python   | 2020年4月   | [Link](https://github.com/pycaret/pycaret)      | MIT License                  | [Link](https://pycaret.org/)                                                           | コード行数削減、学習コスト低い                                                       |
+| 6.  | AutoKeras                   | Python   | 2017年11月  | [Link](https://github.com/keras-team/autokeras) | Apache-2.0 License           | [Link](https://autokeras.com/)                                                         | 深層学習モデル、Efficitent Neural Architecture Search（ENAS）によるニューラルネットワーク構造設計 |
+| 7.  | Ludwig                      | Python   | 2019年2月   | [Link](https://github.com/ludwig-ai/ludwig)     | Apache-2.0 License           | [Link](https://ludwig-ai.github.io/ludwig-docs/)                                       | ノーコード、深層学習モデル                                                         |
+| 8.  | Neural Network Intelligence | Python   | 2018年9月   | [Link](https://github.com/microsoft/nni)        | MIT License                  | [Link](https://nni.readthedocs.io/en/stable/)                                          | Microsoft開発、ハイパーパラメーターチューニングやニューラルアーキテクチャ探索                           |
+| 9.  | Model Search                | Python   | 2021年2月   | [Link](https://github.com/google/model_search)  | Apache-2.0 License           | [参考Link](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html) | Google開発、マイクロアーキテクチャブロックによる構造探索、モデルファイル出力                             |
