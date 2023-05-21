@@ -1,7 +1,7 @@
 # Shell-Script-Mag-AutoML2023
-[シェルスクリプトマガジンvol.83](https://www.amazon.co.jp/dp/B0BYYRDKQQ) の特集であるAutoMLの記事に関連したリポジトリです。
+[シェルスクリプトマガジンvol.83](https://www.amazon.co.jp/dp/B0BYYRDKQQ) の特集であるAutoMLの記事に関連したフォルダです。
 
-本リポジトリの構成は以下のようになっています。
+構成は以下のようになっています。
 
 ```
 1_Apr
